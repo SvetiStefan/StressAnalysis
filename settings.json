@@ -1,0 +1,14 @@
+{
+	"raw_features":{
+		"ts":1, 
+		"gsr":-3,
+		"hr":-2
+	},
+	"stress_mapping":{
+		"math":[0,1,0,1,0,1],
+		"temple_run": [1]
+	},
+	"data_files":{
+		"math":["ShimmerData_Elisa_math.csv", "ShimmerData_Emma_math.csv", "ShimmerData_Haisheng_math.csv", "ShimmerData_Issy_Math.csv", "ShimmerData_May_Math.csv", "ShimmerData_Sethu_math.csv"]
+	}
+}
